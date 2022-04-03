@@ -1,0 +1,56 @@
+{
+    "name": "INFO TUP",
+  "short_name": "Info | tup",
+  "description": "info sobre la TUP :)",
+  "background_color": "#008000",
+  "theme_color": "#008000",
+  "orientation": "portrait",
+  "display": "standalone",
+  "prefer_related_applications":true,
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src":"iconos/tech 3.png",
+      "sizes": "310x310",
+      "type": "image/png"
+    },
+    {
+      "src": "iconos/tech 4.png",
+      "sizes": "255x255",
+      "type": "image/png"
+    },
+    {
+      "src": "iconos/tech 5.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    },
+    {
+      "src": "iconos/tech 6.png",
+      "sizes": "129x129",
+      "type": "image/png"
+    },
+    {
+      "src": "iconos/tech 7.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "iconos/logo.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "iconos/tech 8.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "iconos/tech 9.png",
+      "sizes": "17x17",
+      "type": "image/png"
+    }
+    
+  ]
+}

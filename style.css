@@ -1,0 +1,9 @@
+.card {
+    font-family: poppins;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card-link{
+    text-decoration: none;
+}
